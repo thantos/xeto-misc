@@ -1,0 +1,14 @@
+pragma: Lib <
+  doc: "Ontology Alignment Project - EXT2"
+  version: "1.1.0"
+  depends: {
+    { lib: "sys" }
+    { lib: "ph" }
+    { lib: "sussman.oap" }
+  }
+  org: {
+    dis: "Ontology Alignment Project"
+    uri: "https://oap.cloud.buildingsiot.com/1.1/"
+  }
+>
+
